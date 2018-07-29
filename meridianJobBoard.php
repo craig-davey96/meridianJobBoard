@@ -25,7 +25,7 @@
             'manage_options',
             'meridian-jobs',
             'add_meridian_job_board_main_page_html',
-            'dashicons-welcome-widgets-menus',
+            plugin_dir_url(__FILE__).'assets/images/icon.svg',
             5
         );
 

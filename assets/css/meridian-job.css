@@ -22,3 +22,8 @@
 .meridian-job-meta-box .form-field input[type="number"]{
     width: 100%;
 }
+
+#adminmenu .wp-menu-image img{
+    padding: 5px 0;
+    height: 24px;
+}
